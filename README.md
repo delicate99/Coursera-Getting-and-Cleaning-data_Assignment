@@ -8,7 +8,8 @@
   
   Activity recognition data set built from the recordings of 30 subjects performing basic activities and postural transitions while carrying a waist-mounted smartphone with embedded inertial sensors.
   
-  1.2 Getting and Cleansing 
+  1.2 Getting and Reading. 
+   
    Data downloaded from     "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"" and unzip and setting  in my working directory.
    
   1.3 Merge the training and test data set for making tidydata.
@@ -25,7 +26,7 @@
    
 ### 3.Tidydata.txt
    
-  Indepent dataset grouped by 30 subject and 6 activities have each average :  181 rows(include header) and 68 variables separated by '@'
+  Indepent dataset grouped by 30 subject and 6 activities have each average : 181 rows and 68 variables separated by '@'
    
    
  
