@@ -5,12 +5,12 @@
   Subject : Participient ID number (1:30)
               
   Activity: 6 Performing activities.
-              "Walking""
-              "Walking_Upstairs""
-              "Walking_Downstairs""
-              "Sitting""
-              "Standing""
-              "Laying""
+              "Walking"
+              "Walking_Upstairs"
+              "Walking_Downstairs"
+              "Sitting"
+              "Standing"
+              "Laying"
               
               
 ### 2. Measurement       
